@@ -1,8 +1,20 @@
 # Alkeari
 
-Free game mods, tools and browser extensions. Everything I publish stays free for everyone.
+I am Alkeari, an independent software developer in Tennessee, USA, and the founder and lead of Alkeari Labs, the community of players, testers and developers around my mods and tools.
 
-Every project, release and store link lives on [alkeari.com](https://alkeari.com). Releases: [alkeari.com/releases](https://alkeari.com/releases/). Roadmap: [alkeari.com/roadmap](https://alkeari.com/roadmap/).
+I build the mods and tools I want for my own games, and everything I publish is free.
+
+What I mod: Age of Wonders 4, Mount & Blade II: Bannerlord, Civilization VI, Civilization VII, Minecraft, Palworld and Valheim.
+
+A few places to start:
+- Genesis (Minecraft): a live biome map, seed tools and world pre-generation on the Create New World screen.
+- Universal Config Manager (Palworld): every installed mod's settings in one Mod Configs tab.
+- Tech and Civic Queue (Civilization VII): queue several research targets in order with Shift and click.
+- Universal Patch (Bannerlord): gear from different mods on one scale for armor, damage, weight, price and tier.
+- Nexus Mods Assistant (browser extension): a compatibility verdict on every mod tile for the game version you play.
+
+Every project, release and store link: https://alkeari.com
+Discord (Alkeari Labs): https://discord.gg/55HpYBh7tU
 
 ## Mount & Blade II: Bannerlord
 
